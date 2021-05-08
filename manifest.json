@@ -1,0 +1,9 @@
+{
+    "name": "Gerador de senhas",
+    "version": "1.0",
+    "description": "Gera uma senha forte contendo 8 números, 1 letra maiuscula, 1 minuscula e 1 caracter", 
+    "browser_action":{
+        "default_popup":"index.html"
+    },
+    "manifest_version":2
+}
