@@ -1,4 +1,4 @@
-# Password Generator :robot:
+# Password Generator :key:
 Gerador de senhas fortes, feito com HTML5, CSS3 e Javascript, pode também ser instalada como extensão do Google Chrome, ele cria uma senha com 8 números, 1 letra maiuscula, 1 minuscula, e 1 caracter
 ### Status do Projeto :white_check_mark:
 O projeto foi concluido com sucesso, entretanto é possível fazer algumas melhorias. 
